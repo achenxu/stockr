@@ -1,7 +1,7 @@
 __pycache__/
 lib/__pycache__/
 proxies/*
-!proxies/.gitkeep
+!proxies/proxies.txt
 sites/*
 !sites/sample.txt
 **/__pycache__/

@@ -2,6 +2,14 @@
 
 WIP (TODO coming soon)
 
+## Installation
+
+```
+$ git clone git@github.com:kfichter/stockr.git
+$ cd stockr
+$ pip install -r requirements.txt
+```
+
 ## Basic usage
 
 - Add proxies to proxies.txt (you WILL be temp banned by Shopify if you don't use proxies)
